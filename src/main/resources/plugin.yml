@@ -1,0 +1,5 @@
+name: BarLeaveMessage
+main: net.bukkit_plugin.kojima1021.BarLeaveMessage.Main
+version: 1.0.0
+author: kojima1021
+softdepend: [BarAPI]
